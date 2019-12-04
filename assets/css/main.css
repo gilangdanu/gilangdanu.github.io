@@ -2832,26 +2832,32 @@ input, select, textarea {
 
 			.tiles article:nth-child(6n - 5):before {
 				background-color: gainsboro;
+                opacity: 20%;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
 				background-color: darkgray;
+                opacity: 20%;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
 				background-color: dimgrey;
+                opacity: 20%;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
 				background-color: lightgray;
+                opacity: 20%;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
 				background-color: darkgrey;
+                opacity: 20%;
 			}
 
 			.tiles article:nth-child(6n):before {
 				background-color: #87c5a4;
+                opacity: 20%;
 			}
 
 		@media screen and (max-width: 1280px) {
